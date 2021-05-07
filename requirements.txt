@@ -1,0 +1,4 @@
+pandas
+wtforms
+flask_wtf
+flask
